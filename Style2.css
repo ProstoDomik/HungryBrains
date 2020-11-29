@@ -1,0 +1,45 @@
+body{
+    background-color: seashell;
+    background-attachment: fixed;
+}
+
+[class="photo"]{
+    text-align: center;  
+}
+
+[class="ingredients"]{
+    font-family: fantasy;
+    font-style: normal;
+    font-size: 20px;
+    text-align: center;
+}
+
+[class="making"]{
+    font-family: fantasy;
+    font-style: normal;
+    font-size: 20px;
+    text-align: center;
+}
+
+ul{
+    display: inline-block; text-align: center;
+    list-style-type: square;
+}
+
+h1{ 
+    background-image: url(https://cdn.pixabay.com/photo/2017/03/25/18/06/color-2174066_960_720.png);
+    background-size: auto;
+    font-family: fantasy;
+    font-style: italic;
+    font-size: 40px;
+    text-align: center
+}
+
+h2{ 
+    background-image: url(https://cdn.pixabay.com/photo/2017/03/25/18/06/color-2174066_960_720.png);
+    background-size: auto;
+    font-family: fantasy;
+    font-style: normal;
+    font-size: 30px;
+    text-align: center
+}
