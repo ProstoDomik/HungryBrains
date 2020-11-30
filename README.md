@@ -10,4 +10,4 @@ Kasutatud pildid:
   https://easybudgetrecipes.com/wp-content/uploads/2020/04/Mozzarella-Cheese-Sticks-recipe.jpg
   https://img1.russianfood.com/dycontent/images_upl/464/big_463630.jpg
   https://www.maggi.ru/data/images/recept/img564x436/recept_5749_evep.jpg
-  https://cdn.pixabay.com/photo/2017/03/25/18/06/color-2174066_960_720.png
+  https://cdn.pixabay.com/photo/2017/03/25/18/06/color-2174066_960_720.png 
